@@ -1,5 +1,5 @@
 import SocialNetworkServiceImpl from './SocialNetworkServiceImpl';
-import FriendFinder from '../src/FriendFinder';
+import FriendFinder from '../app/FriendFinder';
 
 describe('Friend Finder Test', () => {
 
